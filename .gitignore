@@ -1,0 +1,15 @@
+node_modules/
+dist/
+dist-electron/
+release/
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
+electron/*.js
+electron/*.d.ts
+tests/*.js
+tests/*.d.ts
+src/types.js
+src/types.d.ts
+.DS_Store
+.worktrees/
